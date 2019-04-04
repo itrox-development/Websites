@@ -1,0 +1,11 @@
+HOW TO RUN
+Browser console
+
+ABOUT
+This is a concept page i have written designed to make a user download a digital marketing E-BOOK.
+I have written some jQuery and Javascript for a bit of animation functionality of the
+mobile menu the header when scrolling and of the "success stories" images.
+
+Other page element aniations are handled with animate it CSS and the pafe is build on
+flexbox GRID and Media queries. 
+ 
